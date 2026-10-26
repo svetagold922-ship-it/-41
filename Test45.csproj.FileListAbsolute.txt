@@ -1,0 +1,10 @@
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\bin\Debug\Test45.exe.config
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\bin\Debug\Test45.exe
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\bin\Debug\Test45.pdb
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\Test45.csproj.AssemblyReference.cache
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\test45.Form1.resources
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\Test45.Properties.Resources.resources
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\Test45.csproj.GenerateResource.cache
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\Test45.csproj.CoreCompileInputs.cache
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\Test45.exe
+C:\Users\Svetlana\Desktop\Разработка программных модулей\Test45\obj\Debug\Test45.pdb
